@@ -1,11 +1,11 @@
-# Appro Credit Sales Calling System
+# . Credit Sales Calling System
 
-A comprehensive credit sales calling progress tracking system built for Appro Onboarding Solutions FZ LLC. This system enables sales teams to manage credit product leads (credit cards, personal loans, car loans, home loans), track call progress, and monitor conversion metrics.
+A comprehensive credit sales calling progress tracking system built for . Onboarding Solutions FZ LLC. This system enables sales teams to manage credit product leads (credit cards, personal loans, car loans, home loans), track call progress, and monitor conversion metrics.
 
 ## 🏢 Company
 
-**Appro Onboarding Solutions FZ LLC**  
-Website: [https://appro.ae](https://appro.ae)
+**. Onboarding Solutions FZ LLC**  
+Website: [https://..ae](https://..ae)
 
 ## 🎯 Features
 
@@ -30,7 +30,7 @@ Website: [https://appro.ae](https://appro.ae)
 3. Pre-qualified
 4. Docs Collected
 5. Submitted
-6. Approved/Rejected
+6. .ved/Rejected
 7. Closed
 
 ## 🛠 Tech Stack
@@ -91,10 +91,10 @@ npm install
 1. Go to Supabase Dashboard → Authentication → Users
 2. Create users manually or enable email authentication
 3. The sample SQL migration creates these default users:
-   - `admin@appro.ae` (admin role)
-   - `sarah.manager@appro.ae` (manager role)
-   - `john.rep@appro.ae` (rep role)
-   - `jane.rep@appro.ae` (rep role)
+   - `admin@..ae` (admin role)
+   - `sarah.manager@..ae` (manager role)
+   - `john.rep@..ae` (rep role)
+   - `jane.rep@..ae` (rep role)
 
 4. Set passwords for these users in the Supabase Auth panel
 
@@ -156,7 +156,7 @@ npm run preview
 
 ### Dashboard (`/dashboard`)
 - KPI cards (Total Leads, Calls Today, Pending Docs, Conversion Rate)
-- Charts (Leads by Credit Type, Approvals by Bank, Calls by Rep)
+- Charts (Leads by Credit Type, .vals by Bank, Calls by Rep)
 - Recent leads table
 - Upcoming follow-ups
 
@@ -199,7 +199,7 @@ Update the bank list in the Lead creation form or add a separate banks table.
 The system provides:
 - Real-time dashboard metrics
 - Conversion rate tracking
-- Bank-wise approval analysis
+- Bank-wise .val analysis
 - Credit type distribution
 - Sales rep performance
 - CSV export functionality
@@ -235,14 +235,14 @@ The system provides:
 
 ## 📄 License
 
-Proprietary - Appro Onboarding Solutions FZ LLC
+Proprietary - . Onboarding Solutions FZ LLC
 
 ## 🤝 Support
 
 For support and questions, contact:
-- Email: support@appro.ae
-- Website: https://appro.ae
+- Email: support@..ae
+- Website: https://..ae
 
 ---
 
-**Built with ❤️ for Appro Onboarding Solutions FZ LLC**
+**Built with ❤️ for . Onboarding Solutions FZ LLC**
